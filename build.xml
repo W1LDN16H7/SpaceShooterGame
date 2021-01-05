@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>H:\Code PlayGround\Space Invader\out\artifacts\SpaceIvader\SpaceIvader.jar</jar>
+  <outfile>H:\Code PlayGround\game.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest>H:\Code PlayGround\Space Invader\out\artifacts\SpaceIvader\META-INF\MANIFEST.MF</manifest>
+  <icon>H:\Code PlayGround\Python\Song Downloader\3i.ico</icon>
+  <jre>
+    <path>H:\Code PlayGround\Space Invader\out\artifacts\SpaceIvader\lib</path>
+    <bundledJre64Bit>true</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.6</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>jdkOnly</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
