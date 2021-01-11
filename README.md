@@ -7,4 +7,4 @@ This is a simple tech demo of a space shooter like game, written in Java, using 
 You control the spaceship with `UP-DOWN-LEFT-RIGHT` and shoot by pressing the ENTER.
 
 ## Author 
-**codewithkapil**
+[**codewithkapil**](https://www.github.com/codewithkapil)
